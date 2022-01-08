@@ -1,0 +1,22 @@
+.searchBar {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.search {
+    background-color: rgba(0, 0, 0, 0.473);
+    color: rgba(97, 176, 212, 0.76);
+    padding: 6px;
+    border-color: rgba(3, 3, 3, 0);
+    border-top-left-radius: 4px;
+    border-end-start-radius: 4px;
+    outline: none;
+}
+
+.submit {
+    padding: 6px;
+    background-color: rgba(2, 183, 255, 0.384);
+    border-color: rgba(0, 0, 0, 0);
+    border-top-right-radius: 4px;
+    border-end-end-radius: 4px;
+}
