@@ -29,8 +29,8 @@ function App() {
       })
   }
 
-  function onClose(id) {
-    setCities(oldCities => oldCities.filter(c => c.id !== id));
+  function onClose(name) {
+    setCities(oldCities => oldCities.filter(c => c.name !== name));
   }
 
   return (

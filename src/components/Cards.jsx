@@ -12,7 +12,7 @@ function Cards({cities, onClose}) {
                 min= {c.min}
                 name= {c.name}
                 img= {c.img}
-                onClose= {() => onClose(c.id)}
+                onClose= {() => onClose(c.name)}
                 id={c.id}
             /> )}
         </div>
