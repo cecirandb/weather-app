@@ -4,9 +4,7 @@
 
 *<h6 align='center'>Soon new implementations and improvements</h6>*
 
-<h4 align='center'><a href=""><samp>Link to the app<samp></a></h4>
-
-<samp>Or to see my app on your computer, you can clone the repository and run the following in the project directory:</samp>
+<samp>To see my app on your computer, you can clone the repository and run the following in the project directory:</samp>
 
 ```
 npm install
